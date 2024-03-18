@@ -16,4 +16,15 @@ doc/package-list
 /target/
 .settings/org.eclipse.*
 .idea/
-.lib/
+lib/
+/out/production/the-one/gui/buttonGraphics/FastForward16.gif
+/out/production/the-one/gui/buttonGraphics/FastForward24.gif
+/out/production/the-one/gui/buttonGraphics/Pause16.gif
+/out/production/the-one/gui/buttonGraphics/Pause24.gif
+/out/production/the-one/gui/buttonGraphics/Play16.gif
+/out/production/the-one/gui/buttonGraphics/Play24.gif
+/out/production/the-one/gui/buttonGraphics/StepForward16.gif
+/out/production/the-one/gui/buttonGraphics/StepForward24.gif
+/the-one.iml
+/out/production/the-one/gui/buttonGraphics/Zoom16.gif
+/out/production/the-one/gui/buttonGraphics/Zoom24.gif
